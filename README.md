@@ -1,4 +1,4 @@
-# Remote_Gas_Detection_System
+# Remote Gas Detection System
 
 An IoT device made to monitor the surrounding harmful gass of the key pollinators of our environment i.e. Butterflies. This Device is made using an Arduino UNO (microcontroller ATmega328P) as it's heart and is connected to some gas detecting sensors and then all the readings are sent to a receiver mobile number using a GSM SIM900A Module. For the remote flexibility and freedom from USB powering it has a external power supply as well.
 
