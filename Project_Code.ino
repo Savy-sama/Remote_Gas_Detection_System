@@ -154,7 +154,7 @@ void loop() {                                            // Main code that runs 
     case 's':
       mySerial.println("AT+CMGF=1");                        //Sets the GSM Module in Text Mode
      delay(1000);                                           // Delay of 1 second
-     mySerial.println("AT+CMGS=\"+918372015720\"\r");       // mobile number to which the data will be send
+     mySerial.println("AT+CMGS=\"+91xxxxxxxxxx\"\r");       // mobile number to which the data will be send
      delay(1000);
      mySerial.println(Data);                                // The Data to send
      delay(100);
