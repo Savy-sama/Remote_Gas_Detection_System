@@ -23,4 +23,4 @@ An IoT device made to monitor the surrounding harmful gass of the key pollinator
 6. After the connection is done, click on **"Verify"** to check if there are any errors occuring.
 7. After the verification is done, click on **"Upload"**.
 8. Click on the `"Serial Monitor"` icon on the right upper side of the screen.
-9. Type ***"s"*** in the serial monitor and wait for some time 
+9. Type ***"s"*** in the serial monitor and wait for some time.
