@@ -16,11 +16,19 @@ An IoT device made to monitor the surrounding harmful gass of the key pollinator
 ## How to run the code?
 
 1. Download the arudino IDE from `arduino.cc`.
+   
 2. Install it and download the `"Project_Code.ino"` file (You can also copy-paste the code).
+   
 3. Connect the arduino to the correct port int the arduino IDE.
+   
 4. Make sure to `read the code first to understand the pin connection`.
+   
 5. If you have any problem try reading the comment next to the code.
+    
 6. After the connection is done, click on **"Verify"** to check if there are any errors occuring.
+    
 7. After the verification is done, click on **"Upload"**.
+    
 8. Click on the `"Serial Monitor"` icon on the right upper side of the screen.
+    
 9. Type ***"s"*** in the serial monitor and wait for some time.
